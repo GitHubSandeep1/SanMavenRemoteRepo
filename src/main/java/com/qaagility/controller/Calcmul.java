@@ -1,10 +1,12 @@
 package com.qaagility.controller;
 
 public class Calcmul {
+  int x,y,result
 
-  public int mul() {
+  public int mul(x,y) {
     //Adding comments
-    return 3 * 6;
+   result=X*y;
+    return result;
   
   }
   
